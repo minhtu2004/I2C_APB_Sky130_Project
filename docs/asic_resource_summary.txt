@@ -1,0 +1,9 @@
+=== I2C APB Wrapper ASIC Resource Summary ===
+- Process: Sky130 (130nm)
+- Total Cells: 25,623 (Physical + Logic)
+- [cite_start]Logic Cells: 3,367 [cite: 3]
+- [cite_start]Flip-Flops (DFF): 728 (Inc. 64-byte FIFO) [cite: 6, 7]
+- [cite_start]Buffers: 891 (26.4% of logic cells) [cite: 6]
+- [cite_start]Gate Area: 36,755.25 um^2 [cite: 10]
+- [cite_start]Peak Power: 10.2 mW @ 100MHz [cite: 13]
+- Timing: Setup Slack 4.63ns, Hold Slack 0.29ns (Met)
